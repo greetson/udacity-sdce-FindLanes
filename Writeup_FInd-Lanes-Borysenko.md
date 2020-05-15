@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 [image2]: ./images_output/-1-Grayscale.png "Grayscale Image"
 [image3]: ./images_output/-2-GaussianBlur.png "Smoothened image"
 [image4]: ./images_output/-3-Canny.png "Canny Edges"
-[image5]: ./images_output/-4-ROI-Canny.png "Canny Edges in ROI"
+[image5]: ./images_output/-4-MaskROI.png "Canny Edges in ROI"
 [image6]: ./images_output/-5-HoughLinesDetection.png "Hough Lines"
 
 ---
