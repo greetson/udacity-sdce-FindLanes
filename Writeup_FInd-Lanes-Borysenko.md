@@ -15,12 +15,12 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./Output_Images/-0-original.png "Original Image"
-[image2]: ./Output_Images/-1-Grayscale.png "Grayscale Image"
-[image3]: ./Output_Images/-2-GaussianBlur.png "Smoothened image"
-[image4]: ./Output_Images/-3-Canny.png "Canny Edges"
-[image5]: ./Output_Images/-4-ROI-Canny.png "Canny Edges in ROI"
-[image6]: ./Output_Images/-5-HoughLinesDetection.png "Hough Lines"
+[image1]: ./images_output/-0-original.png "Original Image"
+[image2]: ./images_output/-1-Grayscale.png "Grayscale Image"
+[image3]: ./images_output/-2-GaussianBlur.png "Smoothened image"
+[image4]: ./images_output/-3-Canny.png "Canny Edges"
+[image5]: ./images_output/-4-ROI-Canny.png "Canny Edges in ROI"
+[image6]: ./images_output/-5-HoughLinesDetection.png "Hough Lines"
 
 ---
 
