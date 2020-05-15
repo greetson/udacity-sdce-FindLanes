@@ -35,6 +35,12 @@ The pipline was based on the information from Lesson 4: Computer vision fundamen
 4. Apply ROI mask - use only edges detected on the intended road surface
 5. Extract Hough lines using hough Transform approach from Lesson 4: cv2.HoughLinesP() function
 (6). Optional to use ROI masking for extrapolated lines
+![image1]
+![image2]
+![image3]
+![image4]
+![image5]
+![image6]
 
 In order to draw a single line on the left and right lanes, draw_extrapolated_lines() function was added:
 0. Receives a set of Hough lines as an input
